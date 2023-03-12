@@ -1,4 +1,16 @@
+:root {
+  --light-color: #d6f3ff;
+  --dark-color: #110d67;
+  --primary-color: #1d1bd4;
+  --secondary-color: #2990fe;
+  --info-color: #00b9d8;
+  --success-color: #00ad65;
+  --warning-color: #e4ce00;
+  --danger-color: #f41f00;
+}
+
 body {
+  min-height: 100vh;
   font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
     Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   text-rendering: optimizeLegibility;
