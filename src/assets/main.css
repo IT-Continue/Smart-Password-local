@@ -1,8 +1,8 @@
 @import './base.css';
 
 :root:root {
-    --van-cell-group-title-color: --dark-color;
-    --van-field-placeholder-text-color: --dark-color;
+  --van-cell-group-title-color: --dark-color;
+  --van-field-placeholder-text-color: --dark-color;
 }
 
 body {
